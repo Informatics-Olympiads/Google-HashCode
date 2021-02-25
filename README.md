@@ -3,7 +3,7 @@
   <b> Archive of the Google HashCode Competition Problems </b> </br>
 </p>
 
-``` Solutions to the Problmes are written using the C++ Programming Language. Python support will also be implemented in the future. ```
+```Code written in the C++ Programming Language. Python support will also be implemented in the future. ```
 
 #### <div align="center"> What is HashCode
   
