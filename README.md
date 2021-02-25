@@ -1,4 +1,4 @@
 <p align = "center">
-  <img align="center" height = "50px" src = "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hashcode_hero.width-1000.png"> </br>
+  <img align="center" height = "50px" src = "https://miro.medium.com/max/1400/0*cZF_LrrlByeBg80d.jpg"> </br>
   <b> Archive of the Google HashCode Competition Problems </b>
 </p>
