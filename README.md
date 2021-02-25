@@ -3,8 +3,6 @@
   <b> Archive of the Google HashCode Competition Problems </b> </br>
 </p>
 
-```   Solution Code written in the C++ Programming Language. Python support will also be added in the future.   ```
-
 #### <div align="center"> What is HashCode
   
 #### <div align="center"> How to Participate
