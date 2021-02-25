@@ -1,9 +1,11 @@
 <p align = "center">
   <img align="center" height = "50px" src = "https://miro.medium.com/max/1400/0*cZF_LrrlByeBg80d.jpg"> </br>
   <b> Archive of the Google HashCode Competition Problems </b> </br>
-  ```
-  All Solutions are written using the C++ Programming Language
-  ```
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 </p>
 
 #### <div align="center"> What is HashCode
