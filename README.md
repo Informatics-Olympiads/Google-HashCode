@@ -1,6 +1,6 @@
 <p align = "center">
-  <b> # Hash Code | Archive of the Google HashCode Competition Problems </b> </br>
-  Problems solved in C++ Programming Language
+  <b> Archive of the Google HashCode Competition Problems </b> </br>
+  <i> Problems solved in C++ Programming Language </i>
 </p>
 
 #### <div align="center"> What is HashCode
